@@ -8,4 +8,4 @@ Tüm Repo'lardaki haklar Ünlem Bilişim'e aittir.
 
 Güvenlik açıkları ve öneriler için web sitemiz üzerinden irtibata gaçabilirsiniz.
 
-<p style="text-align: center;"> [Ünlem Bilişim](https://unlembilisim.com) </p>
+<p style="text-align: center;"><a href="https://unlembilisim.com">Ünlem Bilişim</a> </p>
